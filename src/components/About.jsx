@@ -362,7 +362,7 @@ export default function About() {
                         className="flex gap-3 flex-wrap"
                     >
                         <motion.a
-                            href="/resume.pdf"
+                            href="/resumess.pdf"
                             download
                             whileHover={{ scale: 1.05, y: -2 }}
                             whileTap={{ scale: 0.97 }}

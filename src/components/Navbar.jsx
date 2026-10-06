@@ -187,7 +187,7 @@ export default function Navbar() {
               {/* Resume */}
 
               <motion.a
-                href="/resume.pdf"
+                href="/resumess.pdf"
                 download
                 whileHover={{ y: -2 }}
                 whileTap={{ scale: 0.96 }}
@@ -448,7 +448,7 @@ export default function Navbar() {
 
                 <div className="flex flex-col sm:flex-row gap-3 pt-5">
                   <motion.a
-                    href="/resume.pdf"
+                    href="/resumess.pdf"
                     download
                     whileTap={{ scale: 0.97 }}
                     className="
